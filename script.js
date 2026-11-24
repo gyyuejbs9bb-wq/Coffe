@@ -4,14 +4,14 @@ const menuItems = [
         ar: "شاي",
         en: "Tea",
         price: "10",
-        image: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=600"
+        image: "tea.jpeg"
     },
 
     {
         ar: "قهوة",
         en: "Coffee",
         price: "20 / 25",
-        image: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600"
+        image: "coffe.jpeg"
     },
 
     {
@@ -46,7 +46,7 @@ const menuItems = [
         ar: "كافي ميكس بلبن",
         en: "Coffee Mix with Milk",
         price: "25",
-        image: "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=600"
+        image: "coffe mix.jpeg"
     },
 
     {
@@ -67,7 +67,7 @@ const menuItems = [
         ar: "نسكافيه بلاك",
         en: "Nescafe Black",
         price: "15",
-        image: "https://images.unsplash.com/photo-1512568400610-62da28bc8a13?w=600"
+        image: "blac.jpeg"
     },
 
     {
@@ -81,7 +81,7 @@ const menuItems = [
         ar: "أعشاب",
         en: "Herbal Drinks",
         price: "13",
-        image: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=600"
+        image: "tree.jpeg"
     }
 
 ];
